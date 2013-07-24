@@ -8,6 +8,10 @@ Collect metrics from the Go runtime and sends them to the metrics service of you
 
 Documentation is available at [godoc.org](http://godoc.org/github.com/marcw/metrics)
 
+## Example
+
+An example of how to use this library is available here: https://github.com/marcw/rtmetrics-heroku-example
+
 ## Contributing
 
 Feel free to open issues or send pull request.
