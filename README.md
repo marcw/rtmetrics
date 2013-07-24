@@ -1,7 +1,5 @@
 # Rtmetrics
 
-[![Build Status](https://travis-ci.org/marcw/metrics.png?branch=master)](https://travis-ci.org/marcw/metrics)
-
 Collect metrics from the Go runtime and sends them to the metrics service of your choice (metrics, librato, etc)
 
 ## Documentation
